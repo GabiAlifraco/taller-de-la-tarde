@@ -1,7 +1,7 @@
 <project>
   <modelVersion>4.0.0</modelVersion>
-  <groupId>tp</groupId>
-  <artifactId>tp</artifactId>
+  <groupId>drcasa</groupId>
+  <artifactId>drcasa</artifactId>
   <version>1</version>
 
   <dependencies>
